@@ -1,1 +1,4 @@
-# Acc-s_a_Dades
+# Acces_a_Dades
+
+
+- T0 - TC (Ejercicios de Python) = 
